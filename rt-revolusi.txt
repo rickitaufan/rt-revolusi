@@ -6,7 +6,6 @@ RESOLUSI RICKI TAUFAN
   - Container
   - Docker
   - Kubernetes
-  - Github
-- Belajar Bahasa Inggris
+  - Belajar Bahasa Inggris
 - Konsisten Belajar 
 - 
