@@ -1,5 +1,12 @@
 RESOLUSI RICKI TAUFAN
 - Belajar menjadi DevOps
-- Belajar Skill DevOps
+- Belajar Skill DevOps 
+  Skill DevOps
+  - Cloud
+  - Container
+  - Docker
+  - Kubernetes
+  - Github
 - Belajar Bahasa Inggris
 - Konsisten Belajar 
+- 
