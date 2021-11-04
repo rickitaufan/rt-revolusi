@@ -1,0 +1,7 @@
+Rencana belajar Skill Baru
+  Skill DevOps:
+  - Cloud
+  - Virtual Machine
+  - Container
+  - Docker
+  - Kubernetes
