@@ -5,7 +5,6 @@ Rencana belajar Skill Baru
     =>sertifikasi Azure
       - Fundamentals
       - Expert
-      - Virtual Machine
   - Container
   - Docker
   - Kubernetes
