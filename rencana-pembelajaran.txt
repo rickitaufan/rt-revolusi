@@ -14,3 +14,4 @@ Rencana belajar Skill Baru
   - Docker
   - Kubernetes
   - CI/CD
+    =>jenkins
