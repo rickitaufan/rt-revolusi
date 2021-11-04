@@ -2,11 +2,12 @@ Rencana belajar Skill Baru
   Skill DevOps:
   - Cloud
     - Azure
-    - AWS
-    - Google CLoud
-    - Alibaba Cloud
-  - Virtual Machine
+    =>sertifikasi Azure
+      - Fundamentals
+      - Expert
+      - Virtual Machine
   - Container
   - Docker
   - Kubernetes
   - CI/CD
+  - Git & Github
