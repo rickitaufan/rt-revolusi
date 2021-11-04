@@ -9,3 +9,4 @@ Rencana belajar Skill Baru
   - Container
   - Docker
   - Kubernetes
+  - CI/CD
